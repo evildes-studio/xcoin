@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xcoin/static/css/main.7e42c12a.chunk.css",
+    "main.js": "/xcoin/static/js/main.30989c94.chunk.js",
+    "main.js.map": "/xcoin/static/js/main.30989c94.chunk.js.map",
+    "runtime-main.js": "/xcoin/static/js/runtime-main.42cd6301.js",
+    "runtime-main.js.map": "/xcoin/static/js/runtime-main.42cd6301.js.map",
+    "static/css/2.b318b159.chunk.css": "/xcoin/static/css/2.b318b159.chunk.css",
+    "static/js/2.595247b4.chunk.js": "/xcoin/static/js/2.595247b4.chunk.js",
+    "static/js/2.595247b4.chunk.js.map": "/xcoin/static/js/2.595247b4.chunk.js.map",
+    "index.html": "/xcoin/index.html",
+    "static/css/2.b318b159.chunk.css.map": "/xcoin/static/css/2.b318b159.chunk.css.map",
+    "static/css/main.7e42c12a.chunk.css.map": "/xcoin/static/css/main.7e42c12a.chunk.css.map",
+    "static/js/2.595247b4.chunk.js.LICENSE.txt": "/xcoin/static/js/2.595247b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42cd6301.js",
+    "static/css/2.b318b159.chunk.css",
+    "static/js/2.595247b4.chunk.js",
+    "static/css/main.7e42c12a.chunk.css",
+    "static/js/main.30989c94.chunk.js"
+  ]
+}
